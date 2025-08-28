@@ -1,0 +1,21 @@
+# Core ML & AI
+torch
+transformers
+openai
+
+# Data handling
+pandas
+numpy
+
+# Vector DB / RAG
+chromadb
+faiss-cpu
+langchain
+
+# Web UI (quick prototyping)
+streamlit
+
+# Utils
+python-dotenv
+requests
+tqdm
